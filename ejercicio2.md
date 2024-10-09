@@ -10,7 +10,7 @@
 [esto es un enlace](https://www.google.com)
 [enlace a otro fichero](copia_ejercicio2.md)
 ![patatas](patatas.jpeg)
-|asignatura|hora  |
-|:--------:|:----:|
-|redes     |13:00 |
-|religion  |14:00 |
+|asignatura|hora--|
+|----------|------|
+|redes-----|13:00-|
+|religion--|14:00-|
