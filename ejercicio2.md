@@ -1,6 +1,7 @@
 #Ejercicio 1
 ### markdown
-** esto esta escrito en negrita ** *esto esta escrito en cursiva* esto esta escrito en `codigo`
+esto esta escrito en **negrita**
+ *esto esta escrito en cursiva* esto esta escrito en `codigo`
 `un trozo de codigo`
 1. una lista
 2. ordenada
