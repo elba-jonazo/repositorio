@@ -10,6 +10,7 @@
 [esto es un enlace](https://www.google.com)
 [enlace a otro fichero](copia_ejercicio2.md)
 ![patatas](patatas.jpeg)
+>tabla
 |asignatura|hora--|
 |----------|------|
 |redes-----|13:00-|
