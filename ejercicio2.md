@@ -13,7 +13,7 @@
 >tabla
 
 
-|asignatura|hora--|
-|----------|------|
-|redes-----|13:00-|
-|religion--|14:00-|
+|asignatura|hora  |
+:---------:|:----:|
+|redes     |13:00 |
+|religion  |14:00 |
